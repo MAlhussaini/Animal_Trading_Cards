@@ -10,3 +10,7 @@ img {
 .label {
     font-weight: bold;
 }
+
+#facts {
+    list-style: none;
+}
