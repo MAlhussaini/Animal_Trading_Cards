@@ -13,14 +13,20 @@ img {
 
 #facts {
     list-style: none;
+    padding:0;
 }
 
 #container {
     border: 1px solid gray;
     padding: 5px;
+    width: 300px;
 }
 
 #card {
     border: 1px solid gray;
-    padding: 5px;
+    padding: 0px 10px;
+}
+
+h1 {
+    margin-left: 5px;
 }
