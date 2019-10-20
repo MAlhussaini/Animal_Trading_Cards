@@ -14,3 +14,13 @@ img {
 #facts {
     list-style: none;
 }
+
+#container {
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+#card {
+    border: 1px solid gray;
+    padding: 5px;
+}
