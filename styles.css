@@ -6,3 +6,7 @@ img {
 #interesting-fact {
     font-style: italic;
 }
+
+.label {
+    font-weight: bold;
+}
